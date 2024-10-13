@@ -1,1 +1,2 @@
-# Lane-detection-by-using-computer-vision
+# lane_detection
+OpenCV Lane Detection using Python
